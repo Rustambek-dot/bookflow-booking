@@ -57,17 +57,20 @@ See [DEPLOYMENT.md](DEPLOYMENT.md). TL;DR: Supabase (run schema + seed) → Verc
 ## License
 MIT
 
-## Screenshots
+## Как пользоваться (Usage guide)
 
-### Landing
+### 1. Лендинг
 ![Landing](screenshots/landing.png)
+Страница для клиентов салона. Кнопка **Try the booking widget** ведёт в публичный виджет записи — он работает без регистрации.
 
-### Book
-![Book](screenshots/book.png)
+### 2. Виджет онлайн-записи (для клиентов)
+![Booking widget](screenshots/book.png)
+Четыре шага: выберите услугу → мастера → свободное время (слоты рассчитываются автоматически из графика мастера) → оставьте контакты и подтвердите. Придёт email-подтверждение.
 
-### Dashboard
+### 3. Дашборд (для администратора)
 ![Dashboard](screenshots/dashboard.png)
+Вход: `demo@example.com / Demo123!`. Видны записи на сегодня со статусами, выручка дня и загрузка недели. Pending-записи требуют подтверждения.
 
-### Analytics
+### 4. Аналитика
 ![Analytics](screenshots/analytics.png)
-
+Выручка по месяцам, исходы визитов (completed/cancelled/no-show) и загрузка каждого мастера — для решений о графике и найме.
