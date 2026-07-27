@@ -56,3 +56,18 @@ See [DEPLOYMENT.md](DEPLOYMENT.md). TL;DR: Supabase (run schema + seed) → Verc
 
 ## License
 MIT
+
+## Screenshots
+
+### Landing
+![Landing](screenshots/landing.png)
+
+### Book
+![Book](screenshots/book.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
+
