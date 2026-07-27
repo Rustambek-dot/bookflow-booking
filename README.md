@@ -59,6 +59,8 @@ MIT
 
 ## Как пользоваться (Usage guide)
 
+![Live demo](screenshots/demo.gif)
+
 ### 1. Лендинг
 ![Landing](screenshots/landing.png)
 Страница для клиентов салона. Кнопка **Try the booking widget** ведёт в публичный виджет записи — он работает без регистрации.
